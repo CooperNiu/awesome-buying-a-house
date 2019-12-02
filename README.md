@@ -65,7 +65,7 @@
         - [武汉]
         - [成都]
         - [重庆]
-        - [郑州]
+        - [郑州]（https://github.com/CooperNiu/zhengzhou_house_knowledge）
     - 其他:
         - [西安]
         - [济南]
